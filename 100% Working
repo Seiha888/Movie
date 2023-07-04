@@ -5,10 +5,10 @@
 <head>
   <head>
     <link href='https://raw.githack.com/Neasreyka/Admin-logo/main/jw%202.0.8.css' rel='stylesheet'/>
-	<title>KAMAKH.COM</title>
+	<title>W88tv</title>
 	</head>
 <body>
-  <script src='https://raw.githack.com/Neasreyka/LogoUser/main/s38%20v2.0.6.js' type='text/javascript'></script>
+  <script src='https://raw.githack.com/Seiha888/Movie/main/W88movie%20v2.0.6.js' type='text/javascript'></script>
   <style>
   .jwplayer .jw-rightclick .jw-rightclick-list {
         border-radius: 1px;
@@ -27,7 +27,7 @@
   displaytitle: false,
   displaydescription: true,
   abouttext: "Buy Me a Coffee",
-  aboutlink: "@mr_ron168",
+  aboutlink: "@W88TV",
 
   skin: {
     name: "netflix"
@@ -41,9 +41,9 @@
 
   playlist: [
     {
-      title: "kamakh.com",
-      description: "ជួយគាំទ្រវេបសាយដើម www.kamakh.com",
-      image: "https://horrornews.net/wp-content/uploads/2013/02/The-Haunting-in-Connecticut-2-Ghosts-of-Georgia-Poster-660x320.jpg",
+      title: "W88tv",
+      description: " www.W88tv",
+      image: "#",
       sources: [
       {
           file:
